@@ -1,5 +1,7 @@
 # Hello Fortran World
 
+![CI](https://github.com/High-Performance-Linear-Algebra/hello-fortran-world/actions/workflows/ci.yml/badge.svg?branch=main)
+
 A simple "Hello, World!" project in Fortran demonstrating modern software development practices including build automation with Make and continuous integration with GitHub Actions.
 
 ## Project Overview
